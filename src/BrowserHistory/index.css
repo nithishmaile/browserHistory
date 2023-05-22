@@ -1,0 +1,47 @@
+.topSection-container {
+  background-color: #3367d6;
+  padding: 20px;
+  display: flex;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  background-color: #2850a7;
+  height: 30px;
+  width: 320px;
+  margin-left: 390px;
+  border: 1px solid white;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+  margin: 12px;
+}
+.logo {
+  height: 40px;
+  width: 120px;
+}
+.horizontal-line {
+  height: 30px;
+  margin-left: 0px;
+  margin-right: 4px;
+}
+.input {
+  background-color: transparent;
+  color: white;
+  width: 80%;
+  outline: none;
+  border-width: 0px;
+}
+.bottom-section {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.card-container {
+  box-shadow: 0px 14px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  width: 80%;
+}
